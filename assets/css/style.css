@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+}
+
+#favesID {
+    font-size: 2rem;
+}
+
+.favButton {}
+
+.gif {
+    height: 100%;
+}
+
+.gifContainer {
+    margin: auto;
+}
