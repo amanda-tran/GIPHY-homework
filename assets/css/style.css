@@ -15,3 +15,7 @@ body {
 .gifContainer {
     margin: auto;
 }
+
+.container {
+    background: pink;
+}
